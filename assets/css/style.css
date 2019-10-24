@@ -1,0 +1,20 @@
+/* Title Card */
+.background-title {
+    background-image: url("../images/fellowship_title.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+#padding-title {
+    padding-top: 30%;
+}
+
+#opacity {
+    background-color: rgba(245, 245, 245, 0.4);
+}
+
+.fontSize {
+    width: 100%;
+}
